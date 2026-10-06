@@ -18,7 +18,7 @@ A reusable application base I have developed and refined over years of building 
 
 A web application for managing novels, built from the Foundation starting architecture.
 
-### Maisie's — maisies.trinthlo.com (launching soon)
+### Maisie's — [maisies.trinthlo.com](https://maisies.trinthlo.com)
 
 A full e-commerce application built from the same Foundation base.
 
