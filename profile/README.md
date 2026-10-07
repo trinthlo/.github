@@ -1,18 +1,22 @@
-# David Mason
+# Trinthlo
 
-**Senior Web Developer · Trinthlo**
+**Custom websites and web applications**
 
-I am a senior web developer with approximately 30 years of web-development experience. I build and maintain custom web applications, with a background spanning application development, database design, integrations, and production systems.
+We build and maintain custom websites and web applications, with experience spanning application development, database design, e-commerce, payment processing, third-party integrations, and production systems.
 
-My primary experience includes **ColdFusion (CFML), SQL Server, JavaScript, custom web applications, e-commerce, payment processing, third-party/API integrations, databases, and legacy application modernization**.
+Our work is built primarily with **ColdFusion (CFML), SQL Server, and JavaScript**, and often involves extending or modernizing existing applications as well as building new ones.
 
-## Selected work
+## Projects
 
 ### Foundation
 
-A reusable application base I have developed and refined over years of building custom web projects. It provides common customer/account functionality, basic content management, application settings, and system-email management, leaving project-specific business functionality to be built on top.
+The reusable application base we use as the starting point for our web projects. It provides common customer/account functionality, basic content management, application settings, and system-email management. Each project's own business functionality is built on top of it.
 
 **Repository:** [foundation-architecture](https://github.com/trinthlo/foundation-architecture) (architecture documentation; the source code is proprietary)
+
+### trinthlo.com — [trinthlo.com](https://trinthlo.com)
+
+Our professional website, built on Foundation.
 
 ### Books — [book.trinthlo.com](https://book.trinthlo.com)
 
@@ -22,17 +26,14 @@ A web application for managing novels, built from the Foundation starting archit
 
 A full e-commerce application built from the same Foundation base.
 
-## Background
+## About the code here
 
-I have approximately 30 years of web-development experience, including more than two decades building and maintaining custom applications in an agency environment. My work has included e-commerce, point-of-sale and inventory systems, reservations and rentals, payments, shipping, marketplaces, automation, APIs, databases, and server administration.
+Most of the applications we build are for clients, and their source code is proprietary, so it is not published here. Public repositories in this organization contain architecture documentation, selected project examples, and code that can be shared without exposing client or proprietary source.
 
-## About the code on this profile
+## Developer
 
-Most of my professional work was built for clients and is proprietary, so it cannot be published. The absence of large amounts of public production source code here is intentional.
-
-Public repositories on this profile contain technical documentation, selected demonstrations, and code I am comfortable making public, without exposing client or proprietary source code.
+Trinthlo is developed and maintained by [David Mason](https://github.com/david-mason-2364), a senior web developer with approximately 30 years of experience building custom websites and business applications.
 
 ## Elsewhere
 
 - Website: [trinthlo.com](https://trinthlo.com)
-- LinkedIn: [linkedin.com/in/david-mason-296a10169](https://www.linkedin.com/in/david-mason-296a10169)
