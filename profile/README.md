@@ -1,39 +1,46 @@
+
 # Trinthlo
 
-**Custom websites and web applications**
+**Custom Web Development & Application Integration**
 
-We build and maintain custom websites and web applications, with experience spanning application development, database design, e-commerce, payment processing, third-party integrations, and production systems.
+We design, develop, and maintain custom websites and web applications, with experience spanning database-driven systems, e-commerce, payment processing, third-party integrations, and production application support.
 
-Our work is built primarily with **ColdFusion (CFML), SQL Server, and JavaScript**, and often involves extending or modernizing existing applications as well as building new ones.
+Our work focuses primarily on **ColdFusion (CFML), SQL Server, and JavaScript**, including developing new applications, extending existing systems, and modernizing legacy functionality.
 
-## Projects
+## Development Focus
 
-### Foundation
+- **Custom Web Applications** — Database-driven websites, administrative tools, customer accounts, and business management systems.
+- **E-Commerce & Payment Processing** — Online storefronts, checkout processes, payment gateway integrations, and order management.
+- **Third-Party Integrations** — Connecting applications with external APIs, shipping providers, accounting systems, and other business services.
+- **Database Development** — SQL Server database design, queries, stored procedures, and application data management.
+- **Application Maintenance & Modernization** — Improving existing systems, extending functionality, and addressing performance and maintainability.
 
-The reusable application base we use as the starting point for our web projects. It provides common customer/account functionality, basic content management, application settings, and system-email management. Each project's own business functionality is built on top of it.
+## Foundation
 
-**Repository:** [foundation-architecture](https://github.com/trinthlo/foundation-architecture) (architecture documentation; the source code is proprietary)
+Foundation is our reusable starting point for custom web projects. It provides common functionality so each new application can focus on its own specific requirements.
 
-### trinthlo.com — [trinthlo.com](https://trinthlo.com)
+Its core functionality includes:
 
-Our professional website, built on Foundation.
+- Customer accounts, contact information, and authentication.
+- Basic content and page management, including access-restricted pages.
+- Application settings and system-email management.
 
-### Books — [book.trinthlo.com](https://book.trinthlo.com)
+Each application's specialized business functionality is developed separately on top of this starting architecture.
 
-A web application for managing novels, built from the Foundation starting architecture.
+**Repository:** [foundation-architecture](https://github.com/trinthlo/foundation-architecture)
 
-### Maisie's — [maisies.trinthlo.com](https://maisies.trinthlo.com)
+The repository contains architectural documentation and an overview of Foundation's capabilities. The application source code is proprietary and is not publicly distributed.
 
-A full e-commerce application built from the same Foundation base.
+## About These Repositories
 
-## About the code here
+Much of our development work involves proprietary applications and client systems whose source code cannot be published.
 
-Most of the applications we build are for clients, and their source code is proprietary, so it is not published here. Public repositories in this organization contain architecture documentation, selected project examples, and code that can be shared without exposing client or proprietary source.
+Public repositories here are intended to provide architectural documentation, selected technical examples, and other materials that can be shared without exposing proprietary code or confidential client information.
 
 ## Developer
 
-Trinthlo is developed and maintained by [David Mason](https://github.com/david-mason-2364), a senior web developer with approximately 30 years of experience building custom websites and business applications.
+Trinthlo is developed and maintained by [David Mason](https://github.com/david-mason-2364), a senior web developer with approximately 30 years of experience in custom websites, database-driven applications, and business system integrations.
 
-## Elsewhere
+## Website
 
-- Website: [trinthlo.com](https://trinthlo.com)
+[trinthlo.com](https://trinthlo.com)
